@@ -1,10 +1,10 @@
 ---
-name: Sujay Kundu
-username: xplor4r
+name: ali
+username: ali
 bio: "Full Stack Web Developer, based in Bangalore, India"
-site: https://sujaykundu.com
+site: https://ali.com
 avatar: xplor4r.png
-email: mail@sujaykundu.com
+email: ali.com
 social:
     - title: "github"
       url: "https://github.com/sujaykundu777"
