@@ -26,11 +26,11 @@ urls:
 
 author_logo: profile.png
 author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_bio: Hi, my name is seyed ali
+author_email: "salihb1380@gmail.com"
+author_location: Iran
+author_website_url: "https:google.com"
+typewrite-text: km
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -95,7 +95,7 @@ mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50b
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: bfgiuf@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
