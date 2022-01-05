@@ -25,7 +25,7 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
+author: ali
 author_bio: Hi, my name is seyed ali
 author_email: "salihb1380@gmail.com"
 author_location: Iran
@@ -51,7 +51,7 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
+                college_name: elmosanat
                 college_url: https://mit.org
                 college_degree: CS Engineer
                 description: Bachelor of Technology
@@ -71,16 +71,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: ali
+github_username:  ali
+facebook_username: ali
+linkedin_username: ali
+behance_username: ali
+instagram_username: ali
+medium_username: ali
+telegram_username: ali
+dribbble_username: ali
+flickr_username: ali
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -88,7 +88,7 @@ flickr_username: johndoe
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: ali
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
